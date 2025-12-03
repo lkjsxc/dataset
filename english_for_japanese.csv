@@ -532,6 +532,7 @@
 "We <b>solved</b> the traffic problem.","交通の問題を<b>解決</b>した。"
 "This equation is hard to <b>solve</b>.","この方程式は<b>解</b>くのが難しい。"
 "She <b>solved</b> the mystery at last.","彼女はついにその謎を<b>解明</b>した。"
+
 "Strange events <b>occur</b> during the festival.","祭りの間に奇妙な出来事が<b>起こ</b>る。"
 "If any issue <b>occurs</b>, call support immediately.","問題が<b>発生</b>したらすぐにサポートへ連絡してください。"
 "An idea suddenly <b>occurred</b> to me.","ふと考えが<b>心に浮か</b>んだ。"
@@ -816,6 +817,7 @@
 "Pain appears in the lower <b>region</b>.","痛みは下腹部の<b>部位</b>に現れる。"
 "We will visit the coastal <b>region</b>.","沿岸<b>地域</b>を訪れる予定だ。"
 "Study the brain <b>regions</b>.","脳の<b>領域</b>を学びなさい。"
+
 "Modern <b>medicine</b> saves many lives.","現代<b>医学</b>は多くの命を救う。"
 "Take the <b>medicine</b> after meals.","食後に<b>薬</b>を飲みなさい。"
 "She studies sports <b>medicine</b>.","彼女はスポーツ<b>医学</b>を研究している。"
@@ -905,6 +907,7 @@
 "This style is <b>current</b> now.","このスタイルは今<b>通用</b>している。"
 "Measure the electric <b>current</b>.","電気<b>電流</b>を測りなさい。"
 "Read the <b>current</b> issue of the journal.","雑誌の<b>最新</b>号を読みなさい。"
+
 "<b>Mental</b> health matters to everyone.","<b>精神</b>の健康は誰にとっても重要だ。"
 "She has strong <b>mental</b> focus.","彼女は<b>知能</b>面の集中力が高い。"
 "Solve it with <b>mental</b> math.","<b>頭の中で行う</b>計算で解きなさい。"
@@ -1413,8 +1416,7 @@
 "We need <b>extra</b> staff this week.","今週は<b>追加の</b>スタッフが必要だ。"
 "Bring <b>extra</b> copies.","<b>予備の</b>コピーを持ってきて。"
 "He paid an <b>extra</b> fee.","彼は<b>別勘定の</b>料金を支払った。"
-"Do you have <b>extra</b> time?","
-<b>余分の</b>時間はありますか。"
+"Do you have <b>extra</b> time?","<b>余分の</b>時間はありますか。"
 
 "The <b>entire</b> team agreed.","チーム<b>全体</b>が賛成した。"
 "Read the <b>entire</b> report.","報告書<b>全部</b>を読みなさい。"
@@ -1499,8 +1501,7 @@
 "We <b>predict</b> higher sales.","売上増を<b>予測</b>する。"
 "Experts <b>predicted</b> the result.","専門家は結果を<b>予測</b>した。"
 "The model <b>predicts</b> demand.","そのモデルは需要を<b>予測</b>する。"
-"Can you <b>predict</b> the trend?","
-その傾向を<b>予測</b>できますか。"
+"Can you <b>predict</b> the trend?","その傾向を<b>予測</b>できますか。"
 
 "Please <b>examine</b> the data.","データを<b>調べ</b>てください。"
 "The doctor <b>examined</b> her.","医師は彼女を<b>診察</b>した。"
@@ -1508,8 +1509,7 @@
 "Carefully <b>examine</b> each sample.","各サンプルを慎重に<b>調べ</b>なさい。"
 
 "I <b>trust</b> her judgment.","私は彼女の判断を<b>信頼</b>する。"
-"Can we <b>trust</b> this source?","
-この情報源を<b>信頼</b>できますか。"
+"Can we <b>trust</b> this source?","この情報源を<b>信頼</b>できますか。"
 "He is a <b>trusted</b> partner.","彼は<b>信頼</b>できる協力者だ。"
 "We <b>trust</b> our team.","私たちはチームを<b>信頼</b>している。"
 
@@ -1692,6 +1692,7 @@
 "The road <b>extends</b> to the coast.","道路は海岸まで<b>伸び</b>ている。"
 "Please <b>extend</b> your arm.","腕を<b>伸ば</b>してください。"
 "Our services <b>extend</b> to Asia.","サービスはアジアにまで<b>及ぶ</b>。"
+
 "We <b>appreciate</b> your help.","ご支援に<b>感謝</b>します。"
 "I <b>appreciate</b> good design.","良いデザインを<b>鑑賞</b>する。"
 "Investors <b>appreciated</b> the value.","投資家は価値を<b>正当に評価</b>した。"
@@ -1786,3 +1787,298 @@
 "We visited the <b>sights</b>.","名<b>所</b>を訪れた。"
 "He has poor <b>sight</b>.","彼は<b>視力</b>が弱い。"
 "Keep the goal in <b>sight</b>.","目標を<b>視野</b>に入れておきなさい。"
+
+"Local communities <b>campaign</b> for cleaner streets.","地域社会はよりきれいな通りのために<b>運動</b>する。"
+"The charity will <b>campaign</b> online next month.","その慈善団体は来月オンラインで<b>運動</b>を行う。"
+"They <b>campaign</b> to raise awareness of mental health.","彼らはメンタルヘルスの認知向上のために<b>運動</b>する。"
+"The group <b>campained</b> for safer roads.","その団体はより安全な道路のために<b>運動</b>した。"
+
+"We need more <b>fund</b> to expand the project.","プロジェクト拡大にはより多くの<b>資金</b>が必要だ。"
+"The government created a <b>fund</b> for small businesses.","政府は中小企業向けの<b>基金</b>を設けた。"
+"Fans <b>funded</b> the independent film through crowdfunding.","ファンはクラウドファンディングでその自主映画に<b>資金提供</b>した。"
+"Please <b>fund</b> the scholarship program if you can.","可能なら奨学金制度に<b>資金提供</b>してください。"
+
+"He built a personal <b>web</b> portfolio for job hunting.","彼は就職活動のため個人<b>ウェブ</b>ポートフォリオを作った。"
+"Spiders spin a delicate <b>web</b> to catch insects.","クモは虫を捕らえるために繊細な<b>巣</b>を張る。"
+"The rumor spread across the <b>web</b> in minutes.","その噂は数分で<b>ウェブ</b>上に広がった。"
+"The site is fast and secure on the <b>web</b>.","そのサイトは<b>ウェブ</b>上で高速かつ安全だ。"
+
+"The dove is a universal <b>symbol</b> of peace.","鳩は平和の普遍的な<b>象徴</b>だ。"
+"This math <b>symbol</b> indicates summation.","この数学<b>記号</b>は総和を示す。"
+"The logo became a powerful brand <b>symbol</b>.","そのロゴは強力なブランド<b>シンボル</b>になった。"
+"Uniforms carry the school’s <b>symbol</b> on the chest.","制服の胸には学校の<b>標章</b>が付いている。"
+
+"Our <b>analysis</b> shows a steady upward trend.","私たちの<b>分析</b>は着実な上昇傾向を示す。"
+"The lab completed a detailed data <b>analysis</b>.","研究室は詳細なデータ<b>分析</b>を完了した。"
+"He offered a sharp <b>analysis</b> of the problem.","彼はその問題の鋭い<b>分析</b>を示した。"
+"Market <b>analysis</b> guides our decisions.","市場<b>分析</b>が意思決定を左右する。"
+
+"Please update to the latest <b>version</b>.","最新<b>版</b>にアップデートしてください。"
+"This <b>version</b> fixes several bugs.","この<b>版</b>は複数の不具合を修正する。"
+"I prefer the hardcover <b>version</b> of the book.","私はその本のハードカバー<b>版</b>が好きだ。"
+"The director’s <b>version</b> offers a new ending.","監督<b>版</b>は新しい結末を提示する。"
+
+"Try to see it from her <b>perspective</b>.","彼女の<b>観点</b>から見ようとしてみて。"
+"The report offers a long-term <b>perspective</b>.","その報告は長期的な<b>見方</b>を示す。"
+"A broader <b>perspective</b> helps solve complex issues.","より広い<b>視点</b>は複雑な問題の解決に役立つ。"
+"The painting has strong depth and <b>perspective</b>.","その絵は奥行きと<b>遠近法</b>が強い。"
+
+"We managed the <b>crisis</b> without panic.","私たちは<b>危機</b>を慌てずに対処した。"
+"The company faced a sudden PR <b>crisis</b>.","その会社は突然の広報<b>危機</b>に直面した。"
+"Early warnings can prevent a health <b>crisis</b>.","早期警告は健康<b>危機</b>を防げる。"
+"Leaders must stay calm during a <b>crisis</b>.","指導者は<b>危機</b>の間も冷静であるべきだ。"
+
+"The flood was a national <b>disaster</b>.","その洪水は全国的な<b>災害</b>だった。"
+"Poor planning led to project <b>disaster</b>.","不十分な計画がプロジェクトの<b>惨事</b>を招いた。"
+"They trained for <b>disaster</b> response.","彼らは<b>災害</b>対応の訓練を受けた。"
+"The film depicts life after a <b>disaster</b>.","その映画は<b>災害</b>後の生活を描く。"
+
+"I’ll attend the <b>lecture</b> on neuroscience.","私は神経科学の<b>講義</b>に出席する。"
+"She gave a public <b>lecture</b> last Friday.","彼女は先週金曜に公開<b>講演</b>を行った。"
+"The professor’s <b>lecture</b> was clear and engaging.","教授の<b>講義</b>は明快で引き込まれた。"
+"We recorded the <b>lecture</b> for absent students.","欠席者のため<b>講義</b>を録画した。"
+
+"He studies <b>psychology</b> at university.","彼は大学で<b>心理学</b>を専攻している。"
+"<b>Psychology</b> explores how we think and feel.","<b>心理学</b>は私たちの思考と感情を探究する。"
+"Clinical <b>psychology</b> requires careful ethics.","臨床<b>心理学</b>は慎重な倫理を要する。"
+"Cognitive <b>psychology</b> focuses on memory.","認知<b>心理学</b>は記憶に焦点を当てる。"
+
+"The survey included a question about <b>gender</b>.","その調査には<b>性別</b>についての質問が含まれた。"
+"<b>Gender</b> roles vary across cultures.","<b>ジェンダー</b>役割は文化によって異なる。"
+"He researches <b>gender</b> equality policies.","彼は<b>ジェンダー</b>平等の政策を研究している。"
+"<b>Gender</b> does not determine ability.","<b>性別</b>は能力を決めない。"
+
+"It’s a local <b>custom</b> to greet with a bow.","お辞儀で挨拶するのは地元の<b>慣習</b>だ。"
+"The shop follows the industry <b>custom</b>.","その店は業界の<b>慣習</b>に従っている。"
+"Breaking <b>custom</b> can cause confusion.","<b>慣習</b>を破ると混乱を招くことがある。"
+"This <b>custom</b> dates back centuries.","この<b>慣習</b>は何世紀も前に遡る。"
+
+"The case goes to <b>court</b> next week.","その事件は来週<b>裁判所</b>へ進む。"
+"He respects the <b>court</b> and its decision.","彼は<b>法廷</b>とその判決を尊重している。"
+"We toured the old royal <b>court</b>.","私たちは古い王室の<b>宮廷</b>を見学した。"
+"Players met on the tennis <b>court</b>.","選手たちはテニス<b>コート</b>で会った。"
+
+"Camels survive in the <b>desert</b>.","ラクダは<b>砂漠</b>で生き延びる。"
+"The city grew near the <b>desert</b> edge.","その都市は<b>砂漠</b>の縁で発展した。"
+"A <b>desert</b> climate demands careful planning.","<b>砂漠</b>気候では慎重な計画が必要だ。"
+"They crossed the <b>desert</b> at dawn.","彼らは夜明けに<b>砂漠</b>を横断した。"
+
+"Healthy plants need rich <b>soil</b>.","健康な植物には豊かな<b>土壌</b>が必要だ。"
+"We tested the <b>soil</b> for nutrients.","私たちは<b>土壌</b>の栄養素を検査した。"
+"Heavy rain eroded the top <b>soil</b>.","大雨が表<b>土</b>を浸食した。"
+"The farm sits on clay <b>soil</b>.","その農場は粘土質の<b>土壌</b>にある。"
+
+"<b>Agriculture</b> supports the local economy.","<b>農業</b>は地域経済を支える。"
+"Sustainable <b>agriculture</b> reduces waste.","持続可能な<b>農業</b>は無駄を減らす。"
+"She studies <b>agriculture</b> and livestock.","彼女は<b>農学</b>と畜産を学ぶ。"
+"Modern <b>agriculture</b> uses drones.","現代<b>農業</b>はドローンを活用する。"
+
+"We found a dinosaur <b>fossil</b> in the cliffs.","崖で恐竜の<b>化石</b>を見つけた。"
+"The museum displays rare <b>fossils</b>.","その博物館は珍しい<b>化石</b>を展示する。"
+"<b>Fossil</b> records reveal ancient climates.","<b>化石</b>記録は古代の気候を明らかにする。"
+"The shell hardened into a <b>fossil</b>.","その殻は<b>化石</b>に固化した。"
+
+"Please submit the <b>document</b> by Friday.","金曜までにその<b>文書</b>を提出してください。"
+"The manager reviewed the legal <b>document</b>.","管理職は法的<b>書類</b>を確認した。"
+"We stored the travel <b>documents</b> safely.","旅行<b>書類</b>を安全に保管した。"
+"The report is a key <b>document</b> for audit.","その報告は監査に重要な<b>資料</b>だ。"
+
+"Build your <b>vocabulary</b> with daily reading.","毎日の読書で<b>語彙</b>を増やしなさい。"
+"A rich <b>vocabulary</b> helps clear writing.","豊かな<b>語彙</b>は明快な文章に役立つ。"
+"The app tests academic <b>vocabulary</b>.","そのアプリは学術<b>語彙</b>を出題する。"
+"He expanded his <b>vocabulary</b> through conversation.","彼は会話で<b>語彙</b>を広げた。"
+
+"She is an <b>intelligent</b> and curious learner.","彼女は<b>聡明</b>で好奇心旺盛な学習者だ。"
+"An <b>intelligent</b> system adapts to user behavior.","<b>知能を有する</b>システムはユーザーの行動に適応する。"
+"He gave an <b>intelligent</b> answer under pressure.","彼はプレッシャー下で<b>賢明</b>な答えをした。"
+"They built an <b>intelligent</b> agent to summarize reports.","彼らは報告書を要約する<b>知能</b>エージェントを作った。"
+
+"Stay <b>conscious</b> of your posture while typing.","タイピング中は姿勢を<b>意識</b>しなさい。"
+"She became <b>conscious</b> after the operation.","彼女は手術後に<b>意識</b>を取り戻した。"
+"I’m <b>conscious</b> that time is limited.","時間が限られていると<b>気づい</b>ている。"
+"He is socially <b>conscious</b> and volunteers often.","彼は社会的に<b>意識</b>が高く、よくボランティアをする。"
+
+"She is <b>capable</b> of solving complex problems.","彼女は複雑な問題を解く<b>能力がある</b>。"
+"A <b>capable</b> manager handles crises calmly.","<b>有能な</b>マネージャーは危機に冷静に対処する。"
+"This device is <b>capable</b> of 8K recording.","この装置は8K録画が<b>可能</b>だ。"
+"He proved he was <b>capable</b> under pressure.","彼はプレッシャー下でも<b>有能</b>だと証明した。"
+
+"We need <b>accurate</b> measurements for the experiment.","実験には<b>正確な</b>測定が必要だ。"
+"Her report is <b>accurate</b> and thorough.","彼女の報告は<b>正確</b>で徹底している。"
+"Use an <b>accurate</b> scale for baking.","製菓には<b>正確な</b>秤を使いなさい。"
+"The model made surprisingly <b>accurate</b> predictions.","そのモデルは驚くほど<b>精密な</b>予測をした。"
+
+"Focus on the <b>fundamental</b> concepts first.","まず<b>基本的な</b>概念に集中しなさい。"
+"Trust is <b>fundamental</b> to teamwork.","信頼はチームワークに<b>必須</b>だ。"
+"We addressed the <b>fundamental</b> issue of safety.","私たちは安全という<b>基本的</b>課題に取り組んだ。"
+"Grammar is <b>fundamental</b> for clear writing.","明確な文章には文法が<b>基本</b>だ。"
+
+"The lab uses <b>artificial</b> light for the plants.","研究室は植物に<b>人工</b>光を使う。"
+"Avoid <b>artificial</b> flavors when possible.","可能なら<b>人工</b>香料は避けなさい。"
+"His smile felt slightly <b>artificial</b>.","彼の笑顔は少し<b>不自然</b>に感じられた。"
+"We built an <b>artificial</b> dataset for testing.","私たちはテスト用に<b>人工</b>データセットを作った。"
+
+"Our plan is <b>firm</b> despite the delay.","遅れにもかかわらず計画は<b>確固たる</b>ものだ。"
+"Use a <b>firm</b> grip when lifting boxes.","箱を持ち上げるときは<b>堅固な</b>握りを使いなさい。"
+"The contract is <b>firm</b> until next year.","その契約は来年まで<b>安定</b>している。"
+"She kept a <b>firm</b> tone in negotiations.","彼女は交渉で<b>揺るがない</b>口調を保った。"
+
+"Take an <b>overall</b> look at the data first.","まずデータを<b>総合的</b>に見なさい。"
+"The <b>overall</b> cost was lower than expected.","<b>全体的</b>な費用は想定より低かった。"
+"We improved <b>overall</b> performance this quarter.","今期<b>全体的</b>な性能が向上した。"
+"The <b>overall</b> design feels clean and modern.","<b>全体</b>のデザインはすっきりして現代的だ。"
+
+"He grew up in a <b>rural</b> town.","彼は<b>田舎</b>の町で育った。"
+"Access to clinics is limited in <b>rural</b> areas.","<b>田園</b>地域では診療所へのアクセスが限られる。"
+"A <b>rural</b> lifestyle can be peaceful.","<b>田舎</b>の暮らしは穏やかなことがある。"
+"They launched a <b>rural</b> education program.","彼らは<b>田園</b>教育プログラムを立ち上げた。"
+
+"He served in the <b>military</b> for five years.","彼は5年間<b>軍</b>務に就いた。"
+"The country increased <b>military</b> spending.","その国は<b>軍事</b>費を増やした。"
+"She studies <b>military</b> history.","彼女は<b>軍事</b>史を研究している。"
+"A <b>military</b> drone flew over the base.","<b>軍事</b>ドローンが基地上空を飛んだ。"
+
+"They protested against <b>nuclear</b> testing.","彼らは<b>核</b>実験に抗議した。"
+"A <b>nuclear</b> plant was shut down.","<b>原子力</b>発電所が停止された。"
+"We studied <b>nuclear</b> reactions in class.","授業で<b>核</b>反応を学んだ。"
+"The treaty limits <b>nuclear</b> weapons.","その条約は<b>核</b>兵器を制限する。"
+
+"She works on <b>biological</b> data analysis.","彼女は<b>生物学</b>データの解析に取り組む。"
+"The sample shows <b>biological</b> activity.","そのサンプルは<b>生物学</b>的活性を示す。"
+"We learned basic <b>biological</b> processes.","基本的な<b>生物学</b>過程を学んだ。"
+"This is a <b>biological</b> specimen.","これは<b>生物学</b>の標本だ。"
+
+"Keep a <b>constant</b> speed on the highway.","高速道路では<b>一定の</b>速度を保ちなさい。"
+"She felt <b>constant</b> pressure to perform.","彼女は成果を出す<b>絶え間ない</b>圧力を感じた。"
+"The machine runs at a <b>constant</b> temperature.","その機械は<b>一定の</b>温度で動作する。"
+"He is a <b>constant</b> supporter of the team.","彼はチームの<b>常に</b>の支援者だ。"
+
+"The storm was <b>severe</b> last night.","昨夜の嵐は<b>猛烈</b>だった。"
+"She received <b>severe</b> criticism for the mistake.","彼女はそのミスで<b>厳しい</b>批判を受けた。"
+"Avoid <b>severe</b> diets; they aren’t healthy.","<b>過度の</b>食事制限は避けなさい。健康的ではない。"
+"The area faces <b>severe</b> weather in winter.","その地域は冬に<b>厳しい</b>天候に直面する。"
+
+"This camera has excellent <b>visual</b> clarity.","このカメラは<b>視覚</b>的な鮮明さが優れている。"
+"Provide <b>visual</b> aids for the presentation.","発表には<b>目に見える</b>資料を用意しなさい。"
+"The chart offers a clear <b>visual</b> summary.","その図は明確な<b>視覚</b>要約を示す。"
+"He noticed a subtle <b>visual</b> cue.","彼は微妙な<b>視覚</b>的手がかりに気づいた。"
+
+"The city saw <b>enormous</b> growth this decade.","その都市はこの10年で<b>莫大な</b>成長を見た。"
+"We faced an <b>enormous</b> challenge.","私たちは<b>巨大な</b>課題に直面した。"
+"The project needed <b>enormous</b> effort.","そのプロジェクトには<b>莫大な</b>努力が必要だった。"
+"She donated an <b>enormous</b> amount to charity.","彼女は慈善に<b>莫大な</b>額を寄付した。"
+
+"Online banking is very <b>convenient</b>.","オンラインバンキングはとても<b>便利</b>だ。"
+"Choose a <b>convenient</b> time for the meeting.","会議に<b>都合のいい</b>時間を選びなさい。"
+"This app makes travel more <b>convenient</b>.","このアプリは旅行を<b>便利</b>にする。"
+"Delivery was quick and <b>convenient</b>.","配達は迅速で<b>都合がよかった</b>。"
+
+"He returned to his <b>domestic</b> duties.","彼は<b>家庭</b>の務めに戻った。"
+"They focus on the <b>domestic</b> market first.","彼らはまず<b>国内</b>市場に集中する。"
+"A <b>domestic</b> cat sleeps on the sofa.","<b>飼いならされた</b>猫がソファで眠っている。"
+"<b>Domestic</b> flights were delayed by fog.","<b>国内</b>線は霧で遅延した。"
+
+"They launched a <b>mass</b> campaign.","彼らは<b>大規模な</b>キャンペーンを開始した。"
+"The concert drew a <b>mass</b> audience.","そのコンサートは<b>大衆</b>向けの観客を集めた。"
+"We produced <b>mass</b> quantities for the event.","イベントのため<b>大量の</b>数量を生産した。"
+"<b>Mass</b> media covered the story widely.","<b>大衆</b>メディアがその話題を広く報じた。"
+
+"This dish is <b>typical</b> of the region.","この料理はその地域に<b>典型的</b>だ。"
+"He showed <b>typical</b> patience during the process.","彼は作業中に<b>典型的</b>な忍耐を見せた。"
+"The <b>typical</b> customer visits twice a month.","<b>典型的</b>な顧客は月に2回来店する。"
+"Her reaction was <b>typical</b> of a beginner.","彼女の反応は初心者に<b>特有</b>のものだった。"
+
+"She studied <b>overseas</b> for two years.","彼女は2年間<b>海外</b>で勉強した。"
+"The company expanded <b>overseas</b> last year.","その会社は昨年<b>海外</b>進出した。"
+"He often travels <b>overseas</b> for work.","彼は仕事でよく<b>海外</b>に出張する。"
+"We sell our products <b>overseas</b> as well.","私たちは製品を<b>海外</b>にも販売している。"
+
+"It was raining; <b>nevertheless</b>, we continued.","雨が降っていた。<b>それにもかかわらず</b>、私たちは続けた。"
+"She was tired; <b>nevertheless</b>, she finished.","彼女は疲れていたが、<b>それにもかかわらず</b>やり遂げた。"
+"The plan is risky; <b>nevertheless</b>, we agreed.","その計画は危険だが、<b>それにもかかわらず</b>同意した。"
+"He failed once; <b>nevertheless</b>, he tried again.","彼は一度失敗した。<b>それにもかかわらず</b>もう一度挑戦した。"
+
+"Let me <b>demonstrate</b> how it works.","動作の仕方を<b>実演</b>させてください。"
+"The results <b>demonstrate</b> a clear improvement.","結果は明確な改善を<b>示している</b>。"
+"Students <b>demonstrated</b> peacefully in the city.","学生たちは市内で平和的に<b>デモを行った</b>。"
+"This example <b>demonstrates</b> the main idea.","この例は主な考えを<b>論証</b>している。"
+
+"Please <b>behave</b> during the meeting.","会議中は<b>行儀よく</b>してください。"
+"The child <b>behaved</b> well at school.","その子は学校で<b>良い行動</b>をした。"
+"The device <b>behaves</b> differently under pressure.","その装置は圧力下で<b>異なる挙動</b>を示す。"
+"He promised to <b>behave</b> himself.","彼は<b>行儀よく</b>することを約束した。"
+
+"They <b>educate</b> children about safety.","彼らは子どもたちに安全について<b>教育する</b>。"
+"We were <b>educated</b> in basic finance.","私たちは基本的な金融について<b>教えられた</b>。"
+"The course <b>educates</b> the public on health.","その講座は健康について一般の人々を<b>教育する</b>。"
+"Parents try to <b>educate</b> their kids at home.","親は家庭で子どもを<b>教育しよう</b>とする。"
+
+"I will <b>purchase</b> a new laptop.","新しいノートPCを<b>購入</b>します。"
+"Tickets can be <b>purchased</b> online.","チケットはオンラインで<b>購入</b>できます。"
+"We <b>purchased</b> supplies for the event.","私たちはイベントの備品を<b>購入</b>した。"
+"She refused to <b>purchase</b> unnecessary items.","彼女は不要な品の<b>購入</b>を断った。"
+
+"I <b>recommend</b> this book to beginners.","初心者にはこの本を<b>勧めます</b>。"
+"Our doctor <b>recommended</b> more exercise.","医者はもっと運動するように<b>勧めた</b>。"
+"Can you <b>recommend</b> a good restaurant?","良いレストランを<b>勧めて</b>くれますか。"
+"The report <b>recommends</b> further research.","その報告書はさらなる研究を<b>勧めている</b>。"
+
+"He finally <b>admitted</b> his mistake.","彼はついに自分の誤りを<b>認めた</b>。"
+"They <b>admit</b> only 50 students per year.","彼らは年間50人だけを<b>入学させる</b>。"
+"I <b>admit</b> that I was careless.","私は不注意だったと<b>認めます</b>。"
+"Children were <b>admitted</b> to the museum for free.","子どもは無料で博物館に<b>入場</b>できた。"
+
+"Solar panels <b>generate</b> electricity.","太陽光パネルは電気を<b>発生</b>させる。"
+"Her speech <b>generated</b> a lot of interest.","彼女のスピーチは多くの関心を<b>生み出した</b>。"
+"This tool <b>generates</b> weekly reports.","このツールは週次レポートを<b>生成</b>する。"
+"We aim to <b>generate</b> new ideas.","私たちは新しいアイデアを<b>生み出す</b>ことを目指す。"
+
+"Scientists <b>explore</b> the ocean floor.","科学者たちは海底を<b>探査</b>する。"
+"We <b>explored</b> different solutions.","私たちは様々な解決策を<b>探った</b>。"
+"The team <b>is exploring</b> the rainforest.","チームは熱帯雨林を<b>探検している</b>。"
+"This course <b>explores</b> modern art.","この講義は現代美術を<b>探究</b>する。"
+
+"Her talent <b>amazes</b> me.","彼女の才能には<b>驚かされる</b>。"
+"You will be <b>amazed</b> by the view.","その景色に<b>驚く</b>でしょう。"
+"The results <b>amazed</b> the researchers.","その結果は研究者たちを<b>驚かせた</b>。"
+"It <b>amazes</b> us how fast he learns.","彼の学習の速さには<b>驚かされる</b>。"
+
+"Be careful not to <b>tear</b> the paper.","紙を<b>裂かない</b>よう注意しなさい。"
+"His shirt <b>tore</b> during practice.","練習中に彼のシャツが<b>裂けた</b>。"
+"She <b>tore</b> the letter in half.","彼女は手紙を半分に<b>引き裂いた</b>。"
+"The flag <b>was torn</b> by the wind.","旗は風で<b>裂けて</b>しまった。"
+
+"They <b>settled</b> the dispute quickly.","彼らはその争いをすぐに<b>解決した</b>。"
+"We <b>settled</b> in a small town.","私たちは小さな町に<b>移り住んだ</b>。"
+"The dust <b>settled</b> after the storm.","嵐の後、ほこりが<b>落ち着いた</b>。"
+"He <b>settled</b> his nerves before speaking.","彼は話す前に気持ちを<b>落ち着かせた</b>。"
+
+"I can’t <b>afford</b> a new car now.","今は新車を買う<b>余裕</b>がない。"
+"We can <b>afford</b> to take a break.","私たちは休憩する<b>余裕</b>がある。"
+"This solution <b>affords</b> many benefits.","この解決策は多くの利点を<b>与える</b>。"
+"She barely <b>afforded</b> the rent last month.","彼女は先月、家賃を何とか<b>支払えた</b>。"
+
+"We <b>conclude</b> that the model works.","そのモデルが機能すると<b>結論づける</b>。"
+"The meeting <b>concluded</b> at noon.","会議は正午に<b>締めくくられた</b>。"
+"They <b>concluded</b> a contract today.","彼らは今日契約を<b>締結した</b>。"
+"To <b>conclude</b>, let me thank you all.","<b>締めくくり</b>に、皆さんに感謝します。"
+
+"They <b>advertise</b> on social media.","彼らはSNSで<b>宣伝</b>する。"
+"We <b>advertised</b> the position last week.","私たちは先週その募集を<b>広告</b>した。"
+"The product was widely <b>advertised</b>.","その製品は広く<b>宣伝</b>された。"
+"She plans to <b>advertise</b> for volunteers.","彼女はボランティア募集の<b>広告</b>を出す予定だ。"
+
+"We <b>encountered</b> a problem on the way.","途中で問題に<b>遭遇した</b>。"
+"I <b>encountered</b> an old friend downtown.","街で昔の友人に<b>出会った</b>。"
+"Users often <b>encounter</b> errors at login.","ユーザーはログイン時によくエラーに<b>遭遇</b>する。"
+"He <b>encounters</b> cultural differences at work.","彼は仕事で文化の違いに<b>出会う</b>。"
+
+"This smell <b>reminds</b> me of home.","この匂いは故郷を<b>思い出させる</b>。"
+"Please <b>remind</b> me to call her.","彼女に電話するよう<b>思い出させて</b>ください。"
+"The sign <b>reminded</b> us of the rules.","その掲示は規則を<b>思い出させた</b>。"
+"He <b>reminds</b> me of my brother.","彼は私の兄を<b>思い出させる</b>。"
+
+"Our office is <b>located</b> near the station.","私たちのオフィスは駅の近くに<b>位置する</b>。"
+"Can you <b>locate</b> the file?","そのファイルの<b>位置を特定</b>できますか。"
+"The sensors <b>located</b> the source of noise.","センサーが雑音の原因位置を<b>探知した</b>。"
+"The hotel is <b>located</b> on the hill.","そのホテルは丘の上に<b>位置する</b>。"
